@@ -1,0 +1,24 @@
+使用示例:
+npm install exceptionless --save
+
+var client = require('exceptionless').ExceptionlessClient.default;
+client.config.apiKey = 'TTZ0SuRLYRXuDf9CDRLMGTo2J2KhZI4nWib0XfqI';
+client.submitException(ex);
+
+https://exceptionless.com/docs/clients/javascript/
+https://exceptionless.com/docs/
+https://exceptionless.com/docs/clients/javascript/sending-events/
+
+
+vscode运行nodejs的方法
+https://blog.csdn.net/wangjiayu08/article/details/89463237
+
+Node自动重启工具 nodemon
+https://www.jianshu.com/p/3b3b8bf9c4e9
+
+####################################
+http://expressjs.jser.us/
+http://expressjs.jser.us/guide.html
+cnpm install express --save
+
+http://127.0.0.1:3000/hello.txt
